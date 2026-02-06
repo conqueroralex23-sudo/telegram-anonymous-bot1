@@ -409,8 +409,8 @@ class AnonymousBot:
 
 if __name__ == '__main__':
     # ВАЖНО: Замените эти значения на свои!
-    BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Токен от @BotFather
-    CHANNEL_ID = "@your_channel"  # ID или username вашего канала (например: @mychannel или -1001234567890)
+    BOT_TOKEN = "8405300994:AAEdn9fOkWCrSa9DJ5w3TSrJjwXGcnlA4mQ"  
+    CHANNEL_ID = "@spletnireu"
     
     # Создание и запуск бота
     bot = AnonymousBot(BOT_TOKEN, CHANNEL_ID)
